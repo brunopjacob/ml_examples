@@ -6,4 +6,5 @@ A list of machine learning tutorials and examples!
 
 1. Decision boundary with TensorFlow2-Keras for a cloud of points (classification)
 
-![Example 1](./images/result1.png)
+<img src="./images/result1.png" alt="Example 1"  width="400" height="300">
+
