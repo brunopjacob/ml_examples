@@ -10,5 +10,8 @@ A list of machine learning tutorials and examples!
 
 2. Binary classification (cats vs dogs) with TensorFlow2-Keras using a convolutional neural network
 
+
 3. Multiclass classification (MNIST) with TensorFlow2-Keras using a convolutional neural network
+
+<img src="./images/result3.png" alt="Example 3"  width="400" height="300">
 
